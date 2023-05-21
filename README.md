@@ -7,7 +7,7 @@
 
 Необходимо поочередно ввести команды
 
-###`git clone https://github.com/Anastacia-Tesli/WhatsApp-connect.git`
+### `git clone https://github.com/Anastacia-Tesli/WhatsApp-connect.git`
 
 Клонировать репозиторий 
 
