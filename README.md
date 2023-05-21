@@ -5,6 +5,16 @@
 
 ## Локальный запуск проекта
 
+Необходимо поочередно ввести команды
+
+###`git clone https://github.com/Anastacia-Tesli/WhatsApp-connect.git`
+
+Клонировать репозиторий 
+
+### `npm install`
+
+Установить зависимости
+
 ### `npm start`
 
 Запуск в режиме разработчика по адресу [http://localhost:3000](http://localhost:3000) в браузере.
